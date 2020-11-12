@@ -1,0 +1,26 @@
+{
+
+    "version": "1.0.0",
+    "name": "super-dark",
+    "description": "Super mega dark theme for Roblox LSP extension",
+    "author": "littensy",
+
+    "repository": "https://github.com/littensy/vscode-super-dark",
+
+    "publisher": "littensy",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Super Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/super-dark.json"
+            }
+        ]
+    }
+}
