@@ -1,26 +1,28 @@
 {
-
-    "version": "1.0.0",
-    "name": "super-dark",
-    "description": "Super mega dark theme for Roblox LSP extension",
-    "author": "littensy",
-
-    "repository": "https://github.com/littensy/vscode-super-dark",
-
-    "publisher": "littensy",
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Super Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/super-dark.json"
-            }
-        ]
-    }
+	"version": "1.0.2",
+	"name": "super-dark",
+	"description": "Super mega dark theme for Roblox LSP extension",
+	"author": "littensy",
+	"repository": "https://github.com/littensy/vscode-super-dark",
+	"publisher": "littensy",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Super Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/super-dark.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "f59217f4-9e10-421a-896a-ca6c9577a64e",
+		"publisherDisplayName": "littensy",
+		"publisherId": "55178f0b-36ff-4a01-b346-18c4a91ef168"
+	}
 }

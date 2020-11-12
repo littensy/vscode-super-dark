@@ -212,7 +212,8 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#FF5370"
+                "foreground": "#FF5370",
+                "fontStyle": "italic"
             }
         },
         {
